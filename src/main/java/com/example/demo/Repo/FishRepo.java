@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.Repo;
 
+import com.example.demo.Entity.Fish;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
